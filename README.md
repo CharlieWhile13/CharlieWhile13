@@ -3,7 +3,7 @@
 
 #### First to break [CommCenter](https://github.com/CharlieWhile13/commcenterpatch13) signature checks on iOS 13 and 14 
 #### Made [Signal Reborn](https://github.com/CharlieWhile13/SignalReborn) for mapping out cell towers you're connected to 
-#### Developer on [Dra1n](https://github.com/MegaDevIOS/Dra1n_old), for working out why your battery sucks, made in joint partnership with [MegaDev](https://github.com/MegaDevIOS)
+#### Developer on [Dra1n](https://github.com/CharlieWhile13/Dra1nMirror), for working out why your battery sucks, made in joint partnership with [MegaDev](https://github.com/MegaDevIOS)
 
 ![Charlie's Github Stats](https://github-readme-stats.vercel.app/api?username=CharlieWhile13&show_icons=true&theme=radical)
 
