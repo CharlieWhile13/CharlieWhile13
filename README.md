@@ -1,11 +1,18 @@
-### Hi there 👋
-### The fact you're reading this means I still have an ounce of relevancy 
+**Hello There 👋**
 
-#### First to break [CommCenter](https://github.com/CharlieWhile13/commcenterpatch13) signature checks on iOS 13 and 14 
-#### Made [Signal Reborn](https://github.com/CharlieWhile13/SignalReborn) for mapping out cell towers you're connected to 
-#### Developer on [Dra1n](https://github.com/CharlieWhile13/Dra1nMirror), for working out why your battery sucks, made in joint partnership with [MegaDev](https://github.com/MegaDevIOS)
+**My Skills 🤹**<br>
+ - Experience in C/Objective-C, Swift, and general app development on Apple platforms.
+ - Experience in Python, primarily discord bots
+<br>
 
-![Charlie's Github Stats](https://github-readme-stats.vercel.app/api?username=CharlieWhile13&show_icons=true&theme=radical)
+| Notable Projects 🚧 | Info ℹ️ |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [CCPatch13](https://github.com/CharlieWhile13/commcenterpatch13) | An iOS Runtime Modification that blocks carrier signature checks |
+| [Signal Reborn](https://github.com/CharlieWhile13/SignalReborn) | An iOS app to map out nearby cell towers, based off on-device measurements |
+| [Dra1n](https://github.com/CharlieWhile13/Dra1nMirror) | An iOS app/modification to suggest battery draining tweaks |
+| [Shade](https://github.com/CharlieWhile13/Shade-App) | An abandoned iOS app for controlling Hue lights |  
+
+![Amy's Github Stats](https://github-readme-stats.vercel.app/api?username=CharlieWhile13&show_icons=true&theme=radical)
 
 
 <!--
