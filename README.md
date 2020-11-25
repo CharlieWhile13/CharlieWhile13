@@ -1,7 +1,7 @@
 **Hello There 👋**
 
 **My Skills 🤹**<br>
- - Experience in C/Objective-C, Swift, and general app development on Apple platforms.
+ - Experience in Objective-C, Swift, and general app development on Apple platforms.
  - Experience in Python, primarily discord bots
 <br>
 
