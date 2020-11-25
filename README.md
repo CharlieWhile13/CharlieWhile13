@@ -13,8 +13,12 @@
 | [Shade](https://github.com/CharlieWhile13/Shade-App) | An abandoned iOS app for controlling Hue lights |  
 | [Odyssey Contributions](https://github.com/TheOdysseyJB/Odyssey) | Added support for custom theming and Hue lights |
 
-![Amy's Github Stats](https://github-readme-stats.vercel.app/api?username=CharlieWhile13&show_icons=true&theme=radical)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieWhile13&layout=compact&theme=dracula&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlieWhile13&layout=compact&theme=dracula&show_icons=true&count_private=true" />
+</a>
 
 <!--
 **CharlieWhile13/CharlieWhile13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
