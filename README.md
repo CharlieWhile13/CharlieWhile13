@@ -19,6 +19,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieWhile13&layout=compact&theme=tokyonight&show_icons=true&count_private=true" />
 </a>
+[![Charlie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CharlieWhile13&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CharlieWhile13/CharlieWhile13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
