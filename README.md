@@ -11,7 +11,7 @@
 | [Signal Reborn](https://github.com/CharlieWhile13/SignalReborn) | An iOS app to map out nearby cell towers, based off on-device measurements |
 | [libCentralis](https://github.com/CharlieWhile13/libCentralis) | A Swift library for using the EduLink API
 | [Dra1n](https://github.com/CharlieWhile13/Dra1nMirror) | An iOS app/modification to suggest battery draining tweaks |
-| [NitrolessiOS](https://github.com/CharlieWhile13/NitrolessiOS) | An iOS custom keyboard for sending emotes in Discord without Nitro |
+| [NitrolessiOS](https://github.com/Nitroless/iOS) | An iOS custom keyboard for sending emotes in Discord without Nitro |
 | [Shade](https://github.com/CharlieWhile13/Shade-App) | An abandoned iOS app for controlling Hue lights |  
 | [Odyssey Contributions](https://github.com/TheOdysseyJB/Odyssey) | Added support for custom theming and Hue lights |
 
